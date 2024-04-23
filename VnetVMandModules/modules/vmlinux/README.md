@@ -1,0 +1,1 @@
+modulo per la creazione di una macchina Linux che fa il deploy sulla seconda subnet della vnet creata nel modulo "network".

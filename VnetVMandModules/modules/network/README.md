@@ -1,0 +1,1 @@
+Questo modulo crea un rete VNET con due subnet asssociati con un NSG e crea due NIC per ogni subnet.

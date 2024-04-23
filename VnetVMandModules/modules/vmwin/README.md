@@ -1,0 +1,1 @@
+Questo modulo crea una macchina virtuale Winwdows Server 2019 e fa il deploy nella prima subnet della vnet del modulo "network".
